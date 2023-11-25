@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add final_json.json
+          git add data/final_json.json
           git commit -m "Update data"
           git push origin main
         env:
