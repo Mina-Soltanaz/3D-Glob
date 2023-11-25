@@ -42,5 +42,8 @@ final_json = {"list" : country_list}
 
 json_data = json.dumps(final_json, indent=2)
 
+if not os.path.exists("data"):
+         os.mkdir("data")
+
 with open("data/final_json.json", "w+") as json_files:
     json_files.write(json_data)
