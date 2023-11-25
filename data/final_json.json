@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "Column1": "A",
+      "Column2": "B",
+      "Column3": "C"
+    },
+    {
+      "Column1": "D",
+      "Column2": "E",
+      "Column3": "F"
+    },
+    {
+      "Column1": "G",
+      "Column2": "H",
+      "Column3": "I"
+    }
+  ]
+}
