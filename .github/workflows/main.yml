@@ -34,6 +34,11 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add data/final_json.json
           git commit -m "Update data"
-          git push origin main
+
+          if [[ `git status --porcelain` ]]; then
+            git push origin main
+          else
+            echo "WARNING: No changes detected"
+          fi
         env:
           REPO_ACCESS_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
