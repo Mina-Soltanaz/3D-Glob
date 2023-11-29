@@ -27,23 +27,33 @@ client = gspread.authorize(creds)
 # 1Qt48KMf-04KXTGCyutH6cKAocKDWB5kJNSZnv-mOvjA - sample
 sheet = client.open_by_key(SHEET_ID)
 
-# Fetch all data
-all_data = pd.DataFrame(sheet.sheet1.get_all_records())
+# # Fetch all data
+# all_data = pd.DataFrame(sheet.sheet1.get_all_records())
+# country_list = all_data.to_json(orient='records', lines=True).splitlines()
+# country_list = [json.loads(px) for px in country_list]
+# final_json = {"list" : country_list}
 
-country_list = all_data.to_json(orient='records', lines=True).splitlines()
+#Read the treaty bodies
+untreatybodies = sheet.worksheet('UNTreatyBodies').get_all_records()
+regionalbodies = sheet.worksheet('Regional').get_all_records()
 
-country_list = [json.loads(px) for px in country_list]
+all_bodies = { "UNTrendyBody" : untreatybodies,
+              "regionalOnes" : regionalbodies}
 
+#write to the specified json file
+with open("data\\UNTrendyBodyAndRegionalOnes.json", "w+") as fp:
+         json_load = json.dumps(all_bodies, indent=2)
+         fp.write(json_load)
+         
 # Adding country_list to another json file which will be uploaded to a github repo
 
-# country_list =[]
-final_json = {"list" : country_list}
+# # country_list =[]
 
 
-json_data = json.dumps(final_json, indent=2)
+# json_data = json.dumps(final_json, indent=2)
 
-if not os.path.exists("data"):
-    os.mkdir("data")
+# if not os.path.exists("data"):
+#     os.mkdir("data")
 
-with open("data/final_json.json", "w+") as json_files:
-    json_files.write(json_data)
+# with open("data/final_json.json", "w+") as json_files:
+#     json_files.write(json_data)
