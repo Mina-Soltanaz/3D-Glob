@@ -32,7 +32,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add data/UNTrendyBodyAndRegionalOnes.json
           git add data/countries_small_updated_Aug2023.geojson
           git commit -m "Update data"
 
