@@ -23,7 +23,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install gspread oauth2client numpy pandas
+          pip install gspread oauth2client numpy pandas geojson
 
       - name: Run Python Script
         run: python asylex_automation.py
