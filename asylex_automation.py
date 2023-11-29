@@ -41,7 +41,7 @@ all_bodies = { "UNTrendyBody" : untreatybodies,
               "regionalOnes" : regionalbodies}
 
 #write to the specified json file
-with open("data\\UNTrendyBodyAndRegionalOnes.json", "w+") as fp:
+with open("data/UNTrendyBodyAndRegionalOnes.json", "w+") as fp:
          json_load = json.dumps(all_bodies, indent=2)
          fp.write(json_load)
          
