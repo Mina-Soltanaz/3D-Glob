@@ -97,6 +97,6 @@ for bbox in geojson_small["features"]:
          reg_list = list()
 
 with open(GEOJSON_SMALL, "w+") as fp:
-         json_load = json.dumps(all_bodies, indent=2)
+         json_load = json.dumps(geojson_small, indent=2)
          fp.write(json_load)
 
