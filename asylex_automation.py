@@ -94,6 +94,6 @@ for bbox in geojson_small["features"]:
          bbox["properties"]["regionalHumanRightsMechanism"] = reg_list
 
 
-with open(GEOJSON_SMALL, "w+") as fp:
+with open("final_country.geojson", "w+") as fp:
          json_load = json.dumps(geojson_small, indent=2)
          fp.write(json_load)
