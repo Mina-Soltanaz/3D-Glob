@@ -55,20 +55,6 @@
       "individualComplaint": "yes",
       "individualComplaintLink": "https://www.ohchr.org/en/documents/tools-and-resources/form-and-guidance-submitting-individual-communication-treaty-bodies",
       "enquiry": "https://www.ohchr.org/en/treaty-bodies/complaints-about-human-rights-violations#inquiries"
-    },
-    {
-      "committee": "NEW",
-      "abbreviations": "Sample stuff",
-      "individualComplaint": "no",
-      "individualComplaintLink": "https://www.ohchr.org/en/documents/tools-and-resources/form-and-guidance-submitting-individual-communication-treaty-bodies",
-      "enquiry": "https://www.ohchr.org/en/treaty-bodies/complaints-about-human-rights-violations#inquiries"
-    },
-    {
-      "committee": "NEWDEC",
-      "abbreviations": "Sample body dec2023",
-      "individualComplaint": "yes",
-      "individualComplaintLink": "https://www.ohchr.org/en/documents/tools-and-resources/form-and-guidance-submitting-individual-communication-treaty-bodies",
-      "enquiry": "https://www.ohchr.org/en/treaty-bodies/complaints-about-human-rights-violations#inquiries"
     }
   ],
   "regionalOnes": [
@@ -110,16 +96,6 @@
     {
       "institution": "ECOWAS",
       "abbreviations": "Economic Community of West African States",
-      "individualComplaint": "http://www.courtecowas.org/practical-information/"
-    },
-    {
-      "institution": "NEW_REG",
-      "abbreviations": "NEw Regional",
-      "individualComplaint": "http://www.courtecowas.org/practical-information/"
-    },
-    {
-      "institution": "NEW_REG_DEC2023",
-      "abbreviations": "NEw Regional",
       "individualComplaint": "http://www.courtecowas.org/practical-information/"
     }
   ]
