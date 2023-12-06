@@ -6,7 +6,7 @@
     180,
     83.64513
   ],
-  "datetime": "2023-12-06 11:28:59.269615",
+  "datetime": "2023-12-06 12:49:13.904457",
   "features": [
     {
       "type": "Feature",
@@ -806,18 +806,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -1046,18 +1034,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -1874,34 +1850,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -2120,22 +2068,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -6124,24 +6056,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "0D85D8"
       }
     },
@@ -6420,18 +6335,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -6746,18 +6649,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -6903,12 +6794,6 @@
         "MIN_LABEL": 4,
         "MAX_LABEL": 9,
         "UNTreatyBody": [
-          {
-            "Committee": "",
-            "IndividualComplaint": "",
-            "Inquiry": "",
-            "RelevantReservations": ""
-          },
           {
             "Committee": "CAT",
             "IndividualComplaint": "Yes",
@@ -7330,14 +7215,6 @@
           {
             "Regional Institution": "ECOWAS",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -7634,10 +7511,6 @@
           {
             "Regional Institution": "ECOWAS",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -7888,12 +7761,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -8130,14 +7998,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -8325,12 +8185,7 @@
         "MIN_LABEL": 4,
         "MAX_LABEL": 9,
         "UNTreatyBody": [],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "#fff"
       }
     },
@@ -8559,22 +8414,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -8871,14 +8710,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -9065,12 +8896,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -9455,34 +9281,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -10429,26 +10227,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -10987,10 +10765,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "1CA3DE"
@@ -11361,18 +11135,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -14789,18 +14551,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -15029,18 +14779,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -15643,30 +15381,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -17365,10 +17079,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -17985,10 +17695,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -18305,10 +18011,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -18831,18 +18533,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -19133,34 +18823,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -19435,12 +19097,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -20355,26 +20012,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -20551,14 +20188,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -20805,26 +20434,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -21051,18 +20660,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -21431,10 +21028,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -21713,34 +21306,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -22584,30 +22149,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -22810,14 +22351,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -23152,12 +22685,6 @@
             "IndividualComplaint": "-",
             "Inquiry": "Yes",
             "RelevantReservations": "-"
-          },
-          {
-            "Committee": "",
-            "IndividualComplaint": "",
-            "Inquiry": "",
-            "RelevantReservations": ""
           }
         ],
         "regionalHumanRightsMechanism": [
@@ -23472,26 +22999,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -24274,26 +23781,6 @@
           {
             "Regional Institution": "NEW_REG_DEC2023",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -24556,22 +24043,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -24918,14 +24389,6 @@
           {
             "Regional Institution": "ECtHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -25160,22 +24623,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -25810,10 +25257,6 @@
           {
             "Regional Institution": "ECOWAS",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -25988,12 +25431,6 @@
             "IndividualComplaint": "Yes",
             "Inquiry": "Yes",
             "RelevantReservations": "-"
-          },
-          {
-            "Committee": "",
-            "IndividualComplaint": "",
-            "Inquiry": "",
-            "RelevantReservations": ""
           }
         ],
         "regionalHumanRightsMechanism": [
@@ -26192,12 +25629,6 @@
             "IndividualComplaint": "Yes",
             "Inquiry": "Yes",
             "RelevantReservations": "-"
-          },
-          {
-            "Committee": "",
-            "IndividualComplaint": "",
-            "Inquiry": "",
-            "RelevantReservations": ""
           }
         ],
         "regionalHumanRightsMechanism": [
@@ -26350,10 +25781,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "1CA3DE"
@@ -26708,18 +26135,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -27348,12 +26763,7 @@
             "RelevantReservations": ""
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "#fff"
       }
     },
@@ -27614,18 +27024,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -27892,12 +27290,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -28252,22 +27645,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -28574,26 +27951,6 @@
           {
             "Regional Institution": "ECtHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -29042,18 +28399,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -31031,22 +30376,6 @@
           {
             "Regional Institution": "ECtHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -31669,12 +30998,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -31879,14 +31203,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -32591,30 +31907,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -33307,12 +32599,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -33883,24 +33170,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "0D85D8"
       }
     },
@@ -34145,18 +33415,6 @@
             "IndividualComplaint": "-",
             "Inquiry": "Yes",
             "RelevantReservations": "-"
-          },
-          {
-            "Committee": "",
-            "IndividualComplaint": "",
-            "Inquiry": "",
-            "RelevantReservations": ""
-          },
-          {
-            "Committee": "",
-            "IndividualComplaint": "",
-            "Inquiry": "",
-            "RelevantReservations": ""
           }
         ],
         "regionalHumanRightsMechanism": [
@@ -34423,16 +33681,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -34611,16 +33860,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -34819,28 +34059,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "0D85D8"
       }
     },
@@ -35732,12 +34951,6 @@
             "IndividualComplaint": "-",
             "Inquiry": "Yes",
             "RelevantReservations": "-"
-          },
-          {
-            "Committee": "",
-            "IndividualComplaint": "",
-            "Inquiry": "",
-            "RelevantReservations": ""
           }
         ],
         "regionalHumanRightsMechanism": [
@@ -36244,20 +35457,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -36430,14 +35630,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -36652,22 +35844,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -36846,30 +36022,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -37078,10 +36230,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -37468,26 +36616,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -37728,18 +36856,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -38046,10 +37162,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "1CA3DE"
@@ -38864,26 +37976,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -39088,18 +38180,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -39544,10 +38624,6 @@
           {
             "Regional Institution": "ECOWAS",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -39921,12 +38997,7 @@
         "MIN_LABEL": 3,
         "MAX_LABEL": 8,
         "UNTreatyBody": [],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "#fff"
       }
     },
@@ -40147,30 +39218,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -40601,32 +39648,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "0D85D8"
       }
     },
@@ -41061,10 +40083,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -41551,12 +40569,6 @@
             "IndividualComplaint": "-",
             "Inquiry": "Yes",
             "RelevantReservations": "-"
-          },
-          {
-            "Committee": "",
-            "IndividualComplaint": "",
-            "Inquiry": "",
-            "RelevantReservations": ""
           }
         ],
         "regionalHumanRightsMechanism": [
@@ -42222,18 +41234,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -42756,14 +41756,6 @@
           {
             "Regional Institution": "ECOWAS",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -43454,14 +42446,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -44106,14 +43090,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -44324,24 +43300,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "0D85D8"
       }
     },
@@ -44728,24 +43687,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "0D85D8"
       }
     },
@@ -45734,30 +44676,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -46202,30 +45120,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -46804,20 +45698,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -47552,14 +46433,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -48260,30 +47133,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -48550,26 +47399,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -48724,24 +47553,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "0D85D8"
       }
     },
@@ -48876,12 +47688,7 @@
             "RelevantReservations": "Art. 16"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -49178,18 +47985,6 @@
           {
             "Regional Institution": "ECtHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -51866,18 +50661,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -52265,12 +51048,6 @@
         "UNTreatyBody": [
           {
             "Committee": "?",
-            "IndividualComplaint": "",
-            "Inquiry": "",
-            "RelevantReservations": ""
-          },
-          {
-            "Committee": "",
             "IndividualComplaint": "",
             "Inquiry": "",
             "RelevantReservations": ""
@@ -52688,12 +51465,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -53132,14 +51904,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
@@ -53502,10 +52266,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "1CA3DE"
@@ -53818,14 +52578,6 @@
           {
             "Regional Institution": "ECOWAS",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -54092,12 +52844,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -54512,26 +53259,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -54986,10 +53713,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "1CA3DE"
@@ -55320,22 +54043,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -55550,10 +54257,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "1CA3DE"
@@ -55836,30 +54539,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -56076,26 +54755,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -57249,14 +55908,6 @@
           {
             "Regional Institution": "ECOWAS",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -57631,24 +56282,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "0D85D8"
       }
     },
@@ -57923,20 +56557,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -58269,24 +56890,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "0D85D8"
       }
     },
@@ -58553,12 +57157,7 @@
             "RelevantReservations": "Art. 4(2)"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -58823,18 +57422,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -59245,18 +57832,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -59393,12 +57968,7 @@
             "RelevantReservations": ""
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -59709,12 +58279,6 @@
             "IndividualComplaint": "Yes",
             "Inquiry": "Yes",
             "RelevantReservations": "-"
-          },
-          {
-            "Committee": "",
-            "IndividualComplaint": "",
-            "Inquiry": "",
-            "RelevantReservations": ""
           }
         ],
         "regionalHumanRightsMechanism": [
@@ -60481,26 +59045,6 @@
           {
             "Regional Institution": "Frontex",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -60731,34 +59275,6 @@
           {
             "Regional Institution": "IACHR",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0041C7"
@@ -63011,16 +61527,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -63517,32 +62024,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "0D85D8"
       }
     },
@@ -63969,16 +62451,7 @@
             "RelevantReservations": "-"
           }
         ],
-        "regionalHumanRightsMechanism": [
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          }
-        ],
+        "regionalHumanRightsMechanism": [],
         "colour": "1CA3DE"
       }
     },
@@ -64755,18 +63228,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0160C9"
@@ -65127,14 +63588,6 @@
           {
             "Regional Institution": "ACERWC",
             "RegionalIndividualComplai": "Yes"
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
-          },
-          {
-            "Regional Institution": "",
-            "RegionalIndividualComplai": ""
           }
         ],
         "colour": "0D85D8"
