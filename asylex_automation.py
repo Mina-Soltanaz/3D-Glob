@@ -34,7 +34,7 @@ regionalbodies = sheet.worksheet('Regional').get_all_records()
 
 all_bodies = { "UNTrendyBody" : untreatybodies,
               "regionalOnes" : regionalbodies,
-             "datetime": datetime.datetime.now()}
+             "datetime": str(datetime.datetime.now())}
 
 #write to the specified json file
 with open(TREATY_BODIES, "w+") as fp:
@@ -92,7 +92,7 @@ for bbox in geojson_small["features"]:
          bbox["properties"]["UNTreatyBody"] = hr_list
          bbox["properties"]["regionalHumanRightsMechanism"] = reg_list
 
-geojson_small["datetime"] = datetime.datetime.now()
+geojson_small["datetime"] = str(datetime.datetime.now())
 with open(GEOJSON_SMALL, "w+") as fp:
          json_load = json.dumps(geojson_small, indent=2)
          fp.write(json_load)
