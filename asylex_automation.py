@@ -6,6 +6,7 @@ import pandas as pd
 import os
 import json
 import geojson 
+import datetime
 
 ## Get environment variables
 GCP_SERVICE_ACCOUNT_KEY = os.environ["GCP_SERVICE_ACCOUNT_KEY"]
@@ -32,7 +33,8 @@ untreatybodies = sheet.worksheet('UNTreatyBodies').get_all_records()
 regionalbodies = sheet.worksheet('Regional').get_all_records()
 
 all_bodies = { "UNTrendyBody" : untreatybodies,
-              "regionalOnes" : regionalbodies}
+              "regionalOnes" : regionalbodies,
+             "datetime": datetime.datetime.now()}
 
 #write to the specified json file
 with open(TREATY_BODIES, "w+") as fp:
