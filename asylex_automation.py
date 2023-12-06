@@ -92,7 +92,7 @@ for bbox in geojson_small["features"]:
          bbox["properties"]["UNTreatyBody"] = hr_list
          bbox["properties"]["regionalHumanRightsMechanism"] = reg_list
 
-
+geojson_small["datetime"] = datetime.datetime.now()
 with open(GEOJSON_SMALL, "w+") as fp:
          json_load = json.dumps(geojson_small, indent=2)
          fp.write(json_load)
