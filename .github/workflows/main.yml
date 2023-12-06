@@ -42,11 +42,8 @@ jobs:
 
       - name: Push commits to repo
         run: |
-          if [[ `git status --porcelain` ]]; then
-            git push origin main
-            echo "INFO: File updated"
-          else
-            echo "INFO: No changes detected"
-          fi
+          git push origin main
+          echo "INFO: Changes Pushed"
+          
         env:
           REPO_ACCESS_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
