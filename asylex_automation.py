@@ -56,8 +56,8 @@ def row2json_reg(row):
          if row[5]  == "-" or pd.isnull(row[5]) or row[5]  == "":
                   return -1 
 
-         json_d[row.index[5]] = "-" if pd.isnull(row[5]) else row[5]
-         json_d[row.index[6][:-2].replace(" ", "")] = "-" if pd.isnull(row[6]) else row[6]
+         json_d["Institution"] = "-" if pd.isnull(row[5]) else row[5]
+         json_d["IndividualComplaint"] = "-" if pd.isnull(row[6]) else row[6]
          return json_d
 
 def row2json_un(row):
