@@ -19,9 +19,6 @@ TREATY_BODIES = "data/UNTrendyBodyAndRegionalOnes.json"
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/spreadsheets",
          "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
 
-print(type(GCP_SERVICE_ACCOUNT_KEY))
-print(GCP_SERVICE_ACCOUNT_KEY)
-
 creds = ServiceAccountCredentials.from_json_keyfile_dict(json.loads(GCP_SERVICE_ACCOUNT_KEY), scope)
 client = gspread.authorize(creds)
 
