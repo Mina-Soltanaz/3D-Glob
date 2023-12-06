@@ -35,6 +35,7 @@ jobs:
           git add data/UNTrendyBodyAndRegionalOnes.json
           git commit -m "Updated UN Bodies data"
           if [[ `git status --porcelain` ]]; then
+            git fetch origin master
             git push origin main
             echo "INFO: File updated"
           else
@@ -44,6 +45,7 @@ jobs:
           git add data/countries_small_updated_Aug2023.geojson
           git commit -m "Updated countries data"
           if [[ `git status --porcelain` ]]; then
+            git fetch origin master
             git push origin main
             echo "INFO: File updated"
           else
