@@ -6,7 +6,7 @@
     180,
     83.64513
   ],
-  "datetime": "2023-12-06 13:02:37.317004",
+  "datetime": "2023-12-06 18:27:44.741223",
   "features": [
     {
       "type": "Feature",
@@ -804,8 +804,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -1028,12 +1028,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "NEW_REG",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "NEW_REG",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -1848,8 +1848,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -2062,12 +2062,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -6329,12 +6329,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -6643,12 +6643,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -6809,16 +6809,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "EACJ",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "EACJ",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -7205,16 +7205,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -7497,20 +7497,20 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACtHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACtHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -7992,12 +7992,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -8408,12 +8408,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -8708,8 +8708,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -9279,8 +9279,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -10225,8 +10225,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -10763,8 +10763,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -11133,8 +11133,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -14549,8 +14549,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -14773,12 +14773,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -15379,8 +15379,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -17073,12 +17073,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -17689,12 +17689,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -18005,12 +18005,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -18531,8 +18531,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -18821,8 +18821,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -20006,12 +20006,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -20186,8 +20186,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -20428,12 +20428,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -20658,8 +20658,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -21022,12 +21022,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -21304,8 +21304,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -21584,8 +21584,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -21793,8 +21793,8 @@
         "UNTreatyBody": [],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -22143,12 +22143,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -22345,12 +22345,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -22689,12 +22689,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -22993,12 +22993,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -23771,16 +23771,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "NEW_REG_DEC2023",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "NEW_REG_DEC2023",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -24037,12 +24037,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -24387,8 +24387,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -24617,12 +24617,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -24843,20 +24843,20 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACtHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACtHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -25251,12 +25251,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -25435,20 +25435,20 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACtHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACtHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -25633,16 +25633,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACtHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACtHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -25779,8 +25779,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -26129,12 +26129,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -27022,8 +27022,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -27643,8 +27643,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -27949,8 +27949,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -28137,8 +28137,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -28393,12 +28393,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -30374,8 +30374,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -31197,12 +31197,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -31901,12 +31901,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -32046,8 +32046,8 @@
         "UNTreatyBody": [],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -33419,16 +33419,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "EACJ",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "EACJ",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -34955,12 +34955,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -35299,12 +35299,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -35624,12 +35624,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -35838,12 +35838,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -36016,12 +36016,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -36224,12 +36224,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -36614,8 +36614,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -36850,12 +36850,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -37160,8 +37160,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -37974,8 +37974,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -38174,12 +38174,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -38610,20 +38610,20 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACtHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACtHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -39212,12 +39212,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -40077,12 +40077,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -40347,12 +40347,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -40573,16 +40573,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACtHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACtHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -41232,8 +41232,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -41742,20 +41742,20 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACtHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACtHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -42108,20 +42108,20 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -42444,8 +42444,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -43084,12 +43084,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -44674,8 +44674,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -45118,8 +45118,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -46427,12 +46427,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -47127,12 +47127,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -47397,8 +47397,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -47983,8 +47983,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -50659,8 +50659,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -50831,16 +50831,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "EACJ",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "EACJ",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -51055,12 +51055,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -51902,8 +51902,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -52264,8 +52264,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -52568,16 +52568,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -53039,12 +53039,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -53257,8 +53257,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -53711,8 +53711,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -54037,12 +54037,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -54255,8 +54255,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -54533,12 +54533,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -54749,12 +54749,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -55690,12 +55690,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -55898,16 +55898,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ECOWAS",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECOWAS",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -57412,16 +57412,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACtHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACtHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -57826,12 +57826,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -58283,16 +58283,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "EACJ",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "EACJ",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -58519,16 +58519,16 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "EACJ",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "EACJ",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -59039,12 +59039,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ECtHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ECtHR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -59273,8 +59273,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "IACHR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "IACHR",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0041C7"
@@ -61203,8 +61203,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "Frontex",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "Frontex",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
@@ -63222,12 +63222,12 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACHPR",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACHPR",
+            "IndividualComplaint": "Yes"
           },
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0160C9"
@@ -63586,8 +63586,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "0D85D8"
@@ -63838,8 +63838,8 @@
         ],
         "regionalHumanRightsMechanism": [
           {
-            "Regional Institution": "ACERWC",
-            "RegionalIndividualComplai": "Yes"
+            "Institution": "ACERWC",
+            "IndividualComplaint": "Yes"
           }
         ],
         "colour": "1CA3DE"
