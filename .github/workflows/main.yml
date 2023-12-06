@@ -33,12 +33,12 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add data/UNTrendyBodyAndRegionalOnes.json
-          git commit -m "Updated UN Bodies data"
+          git commit -m "Commited UN Bodies data"
 
       - name: Commit Changes to Countries geojson
         run: |
           git add data/countries_small_updated_Aug2023.geojson
-          git commit -m "Updated countries data"
+          git commit -m "Commited countries data"
 
       - name: Push commits to repo
         run: |
