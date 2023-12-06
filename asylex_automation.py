@@ -53,7 +53,7 @@ with open(GEOJSON_SMALL) as fp:
 def row2json_reg(row):
          json_d = dict()
          
-         if row[5]  == "-" or pd.isnull(row[5]):
+         if row[5]  == "-" or pd.isnull(row[5]) or row[5]  == "":
                   return -1 
 
          json_d[row.index[5]] = "-" if pd.isnull(row[5]) else row[5]
@@ -63,7 +63,7 @@ def row2json_reg(row):
 def row2json_un(row):
          json_d = dict()
 
-         if row[1]  == "-" or pd.isnull(row[1]):
+         if row[1]  == "-" or pd.isnull(row[1]) or row[1]  == "":
                   return -1
 
          json_d[row.index[1]] = "-" if pd.isnull(row[1]) else row[1]
