@@ -6,7 +6,7 @@
     180,
     83.64513
   ],
-  "datetime": "2023-12-06 18:27:44.741223",
+  "datetime": "2023-12-11 07:19:25.940200",
   "features": [
     {
       "type": "Feature",
@@ -1841,6 +1841,12 @@
           },
           {
             "Committee": "CED",
+            "IndividualComplaint": "Yes",
+            "Inquiry": "Yes",
+            "RelevantReservations": "-"
+          },
+          {
+            "Committee": "NEWDEC",
             "IndividualComplaint": "Yes",
             "Inquiry": "Yes",
             "RelevantReservations": "-"
