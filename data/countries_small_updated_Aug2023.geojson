@@ -6,7 +6,7 @@
     180,
     83.64513
   ],
-  "datetime": "2023-12-15 06:12:25.857074",
+  "datetime": "2023-12-15 08:12:09.781286",
   "features": [
     {
       "type": "Feature",
@@ -377,6 +377,12 @@
             "IndividualComplaint": "Yes",
             "Inquiry": "Yes",
             "RelevantReservations": "-"
+          },
+          {
+            "Committee": "CEDAW",
+            "IndividualComplaint": "Yes",
+            "Inquiry": "Yes",
+            "RelevantReservations": ""
           }
         ],
         "regionalHumanRightsMechanism": [],
@@ -21024,6 +21030,12 @@
             "IndividualComplaint": "Yes",
             "Inquiry": "Yes",
             "RelevantReservations": "-"
+          },
+          {
+            "Committee": "CRC",
+            "IndividualComplaint": "Yes",
+            "Inquiry": "Yes",
+            "RelevantReservations": ""
           }
         ],
         "regionalHumanRightsMechanism": [
