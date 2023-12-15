@@ -6,7 +6,7 @@
     180,
     83.64513
   ],
-  "datetime": "2023-12-15 08:12:09.781286",
+  "datetime": "2023-12-15 10:09:59.014665",
   "features": [
     {
       "type": "Feature",
@@ -380,6 +380,12 @@
           },
           {
             "Committee": "CEDAW",
+            "IndividualComplaint": "Yes",
+            "Inquiry": "Yes",
+            "RelevantReservations": ""
+          },
+          {
+            "Committee": "CRC",
             "IndividualComplaint": "Yes",
             "Inquiry": "Yes",
             "RelevantReservations": ""
