@@ -290,6 +290,9 @@ const searchCountry = () => {
     let max_longitude = bbox[2];
     let latitude_avg = min_latitude + latitude_diff / 2;
     let longitude_avg = max_longitude + longitude_diff / 2;
-    world.pointOfView({ lat: latitude_avg, lng: longitude_avg }, 1);
+    
+    //world.pointOfView({ lat: latitude_avg, lng: longitude_avg }, 1);
+
+    world.pointOfView({ lat: 23.512, lng: 80.329 }, 1);
   }
 };
