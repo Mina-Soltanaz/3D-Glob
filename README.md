@@ -1,10 +1,11 @@
 # India 3D Global Map
 
 
-The idea came to us during one of our Tech4Good projects. We noticed that the Indian map in most of the freely available 3D repositories was incorrectly drawn. So we decided to get it corrected! 
+The idea came to us during one of our Tech4Good projects. We noticed that the Indian map which is freely available in global 3D repositories was incorrectly drawn. So we decided to get it corrected! 
 
+The 3D global map can be seen here [Link](https://www.thinkevolveconsulting.com/3d-corrected-map-of-india-and-the-globe/)
 
-Sharing the files under the Apache 2.0 licence.  
+The files are being shared under the Apache 2.0 licence. We have bundled it with some JS wrappers so that its easy to visualize them in your projects.
 
 
 | Updated Map _(corrected boundaries)_ | Original Map |
