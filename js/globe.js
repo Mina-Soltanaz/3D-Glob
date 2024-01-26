@@ -4,7 +4,7 @@ let world;
 
 const getVal = (feat) =>
   feat.properties.GDP_MD_EST / Math.max(1e5, feat.properties.POP_EST);
-fetch("../data/countries_small_updated_Jan2024.geojson")
+fetch("../data/countries_small.geojson") //_updated_Jan2024
   .then((res) => res.json())
   .then((countries) => {
     const maxVal = Math.max(...countries.features.map(getVal));
