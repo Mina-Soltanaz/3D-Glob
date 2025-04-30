@@ -4,7 +4,7 @@ let world;
 
 const getVal = (feat) =>
   feat.properties.GDP_MD_EST / Math.max(1e5, feat.properties.POP_EST);
-fetch("../data/countries_small_updated_Jan2024.geojson") //
+fetch("./data/countries_small_updated_Jan2024.geojson") //
   .then((res) => res.json())
   .then((countries) => {
     const maxVal = Math.max(...countries.features.map(getVal));
@@ -37,7 +37,7 @@ fetch("../data/countries_small_updated_Jan2024.geojson") //
         }
 
         /// matching the data start point // for additional data
-        fetch("../data/UNTrendyBodyAndRegionalOnes.json")
+        fetch("./data/UNTrendyBodyAndRegionalOnes.json")
           .then((res) => res.json())
           .then((committeesDetails) => {
             let committees = d?.UNTreatyBody.map((obj) => obj.Committee);
