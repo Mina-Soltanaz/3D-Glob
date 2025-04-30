@@ -1,3 +1,4 @@
+import d3 from 'd3';
 const colorScale = d3.scaleSequentialSqrt(d3.interpolateYlOrRd);
 
 let world;
