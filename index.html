@@ -35,7 +35,8 @@
       .scene-nav-info,
       .scene-tooltip {
         position: absolute;
-        font-family: sans-serif;
+        /* font-family: sans-serif; */
+        font-family: "Hamishe";
         pointer-events: none;
         user-select: none;
       }
@@ -44,21 +45,24 @@
         outline: none;
       }
     </style>
-    <link href="./fonts/Hamishe-Bold.oft" as="font" crossorigin />
-    <!--<link rel="preload" href="./fonts/Hamishe-Regular.otf" as="font" crossorigin />-->
+    <link rel="preload" href="/fonts/Hamishe-Bold.oft" as="font" crossorigin />
+    <!--<link rel="preload" href="/fonts/Hamishe-Regular.otf" as="font" crossorigin />-->
     <style>
       @font-face {
         font-family: "Hamishe";
-        src: url(./fonts/Hamishe-Bold.oft) format("opentype");
+        src: url(/fonts/Hamishe-Bold.oft) format("opentype");
         font-weight: normal;
         font-style: normal;
       }
       /* @font-face {
             font-family: 'Hamishe';
-            src: url(./fonts/Hamishe-Regular.oft) format('opentype');
+            src: url(/fonts/Hamishe-Regular.oft) format('opentype');
             font-weight: normal;
             font-style: normal;
         } */
+      * {
+        font-family: "Hamishe";
+      }
     </style>
     <script
       src="https://kit.fontawesome.com/1e939a20d7.js"
