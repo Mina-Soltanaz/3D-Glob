@@ -154,8 +154,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -321,8 +320,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -431,8 +429,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0160C9"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -539,8 +536,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -752,8 +748,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 7,
-        "colour": "0041C7"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -858,8 +853,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0160C9"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -1635,8 +1629,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -1730,8 +1723,7 @@
         "HOMEPART": -99,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -2063,8 +2055,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 5.7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 5.7
       }
     },
     {
@@ -2186,8 +2177,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0160C9"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -2322,8 +2312,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0160C9"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -2421,8 +2410,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -2524,8 +2512,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0041C7"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -2635,8 +2622,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0160C9"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -2760,8 +2746,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0041C7"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -2882,8 +2867,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -2996,8 +2980,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -3113,8 +3096,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -3222,8 +3204,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4.5,
-        "MAX_LABEL": 9.5,
-        "colour": "0160C9"
+        "MAX_LABEL": 9.5
       }
     },
     {
@@ -3353,8 +3334,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -3459,8 +3439,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -3605,8 +3584,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7.5,
-        "colour": "0041C7"
+        "MAX_LABEL": 7.5
       }
     },
     {
@@ -3894,8 +3872,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 5.7,
-        "colour": "0160C9"
+        "MAX_LABEL": 5.7
       }
     },
     {
@@ -3988,8 +3965,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -4087,8 +4063,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -4213,8 +4188,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -4361,8 +4335,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -5359,8 +5332,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 5.7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 5.7
       }
     },
     {
@@ -5469,8 +5441,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0160C9"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -5675,8 +5646,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "0160C9"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -6008,8 +5978,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 5.7,
-        "colour": "#fff"
+        "MAX_LABEL": 5.7
       }
     },
     {
@@ -6140,8 +6109,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0160C9"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -6287,8 +6255,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -6497,8 +6464,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -6632,8 +6598,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -6818,8 +6783,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -6940,8 +6904,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0041C7"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -7068,8 +7031,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -7170,8 +7132,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 6,
-        "MAX_LABEL": 10,
-        "colour": "#fff"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -7271,8 +7232,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4.5,
-        "MAX_LABEL": 9.5,
-        "colour": "0160C9"
+        "MAX_LABEL": 9.5
       }
     },
     {
@@ -7392,8 +7352,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0041C7"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -7536,8 +7495,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "0041C7"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -7637,8 +7595,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -7753,8 +7710,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0041C7"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -7865,8 +7821,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4.5,
-        "MAX_LABEL": 9.5,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9.5
       }
     },
     {
@@ -8013,8 +7968,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -8132,8 +8086,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0041C7"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -8262,8 +8215,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -8376,8 +8328,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -8513,8 +8464,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 7,
-        "colour": "0041C7"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -8618,8 +8568,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -8763,8 +8712,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 7,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -8889,8 +8837,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0041C7"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -9007,8 +8954,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "#fff"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -9103,8 +9049,7 @@
         "HOMEPART": -99,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4.5,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -9273,8 +9218,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "0041C7"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -9390,8 +9334,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0160C9"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -9538,8 +9481,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -9648,8 +9590,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0160C9"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -9759,8 +9700,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0160C9"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -9915,8 +9855,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -10017,8 +9956,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0160C9"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -10122,8 +10060,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0D85D8"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -10215,8 +10152,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -10361,8 +10297,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0160C9"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -10579,8 +10514,7 @@
         "HOMEPART": -99,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "#fff"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -10700,8 +10634,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -10826,8 +10759,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -10969,8 +10901,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4.5,
-        "MAX_LABEL": 9.5,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9.5
       }
     },
     {
@@ -11098,8 +11029,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0160C9"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -11205,8 +11135,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -11323,8 +11252,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0160C9"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -11709,8 +11637,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -11934,8 +11861,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "#fff"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -12033,8 +11959,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -12195,8 +12120,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2.5,
-        "MAX_LABEL": 6.7,
-        "colour": "#fff"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -12311,8 +12235,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7.5,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 7.5
       }
     },
     {
@@ -12417,8 +12340,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -12529,8 +12451,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "#fff"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -12712,8 +12633,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 7,
-        "colour": "0041C7"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -12809,8 +12729,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -12914,8 +12833,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -13075,8 +12993,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 7,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -13273,8 +13190,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -13396,8 +13312,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -13517,8 +13432,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -13620,8 +13534,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -13725,8 +13638,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -13832,8 +13744,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "#fff"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -13927,8 +13838,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "#fff"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -14050,8 +13960,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -14147,8 +14056,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -14260,8 +14168,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -14402,8 +14309,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -14498,8 +14404,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -14596,8 +14501,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -14701,8 +14605,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0160C9"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -14794,8 +14697,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5.7,
-        "MAX_LABEL": 10,
-        "colour": "0041C7"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -14902,8 +14804,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -15051,8 +14952,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0160C9"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -15164,8 +15064,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0160C9"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -15299,8 +15198,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -15555,8 +15453,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 6.7,
-        "colour": "0160C9"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -15659,8 +15556,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0160C9"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -15821,8 +15717,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "0041C7"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -15977,8 +15872,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "#fff"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -16081,8 +15975,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0041C7"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -16242,8 +16135,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -16407,8 +16299,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -16532,8 +16423,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -16646,8 +16536,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -16800,8 +16689,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -16930,8 +16818,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7.5,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7.5
       }
     },
     {
@@ -17029,8 +16916,7 @@
         "HOMEPART": -99,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4.6,
-        "MAX_LABEL": 8,
-        "colour": "#fff"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -17173,8 +17059,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0041C7"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -17317,8 +17202,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "0160C9"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -17455,8 +17339,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -17556,8 +17439,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0160C9"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -17744,8 +17626,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -17853,8 +17734,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -18011,8 +17891,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 6.7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -18150,8 +18029,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -18295,8 +18173,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "#fff"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -18433,8 +18310,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0160C9"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -18595,8 +18471,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 7,
-        "colour": "0160C9"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -18817,8 +18692,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -18998,8 +18872,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2.5,
-        "MAX_LABEL": 7.5,
-        "colour": "#fff"
+        "MAX_LABEL": 7.5
       }
     },
     {
@@ -19129,8 +19002,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -19224,8 +19096,7 @@
         "HOMEPART": -99,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "#fff"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -19364,8 +19235,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "#fff"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -19483,8 +19353,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0041C7"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -19602,8 +19471,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0160C9"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -19697,8 +19565,7 @@
         "HOMEPART": -99,
         "MIN_ZOOM": 7,
         "MIN_LABEL": 4.5,
-        "MAX_LABEL": 9.5,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9.5
       }
     },
     {
@@ -19792,8 +19659,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -19922,8 +19788,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -20687,8 +20552,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 5.2,
-        "colour": "0D85D8"
+        "MAX_LABEL": 5.2
       }
     },
     {
@@ -20787,8 +20651,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -20901,8 +20764,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 4.7,
         "MIN_LABEL": 6,
-        "MAX_LABEL": 11,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 11
       }
     },
     {
@@ -21063,8 +20925,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2.7,
-        "MAX_LABEL": 7,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -21230,8 +21091,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -21379,8 +21239,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -21509,8 +21368,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0160C9"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -21650,8 +21508,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -21758,8 +21615,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -21864,8 +21720,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0160C9"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -21976,8 +21831,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 4,
         "MIN_LABEL": 4.5,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -22099,8 +21953,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -22233,8 +22086,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 7,
-        "colour": "0160C9"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -22345,8 +22197,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -22464,8 +22315,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0041C7"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -22568,8 +22418,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0041C7"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -22694,8 +22543,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "0160C9"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -22791,8 +22639,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "#fff"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -22904,8 +22751,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -23048,8 +22894,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -23153,8 +22998,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 5,
-        "MAX_LABEL": 10,
-        "colour": "0160C9"
+        "MAX_LABEL": 10
       }
     },
     {
@@ -23303,8 +23147,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -23430,8 +23273,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -23570,8 +23412,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -23667,8 +23508,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "0D85D8"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -23761,8 +23601,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4.5,
-        "MAX_LABEL": 9.5,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9.5
       }
     },
     {
@@ -23878,8 +23717,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0041C7"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -24038,8 +23876,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 7,
-        "colour": "0160C9"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -24133,8 +23970,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -24271,8 +24107,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -24385,8 +24220,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -24564,8 +24398,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7,
-        "colour": "0041C7"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -24671,8 +24504,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0041C7"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -25242,8 +25074,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 5.7,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 5.7
       }
     },
     {
@@ -25382,8 +25213,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -25560,8 +25390,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 7.5,
-        "colour": "0D85D8"
+        "MAX_LABEL": 7.5
       }
     },
     {
@@ -25690,8 +25519,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 2,
-        "MAX_LABEL": 7,
-        "colour": "#fff"
+        "MAX_LABEL": 7
       }
     },
     {
@@ -25794,8 +25622,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 4,
-        "MAX_LABEL": 9,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 9
       }
     },
     {
@@ -25924,8 +25751,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -26106,8 +25932,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 1.7,
-        "MAX_LABEL": 6.7,
-        "colour": "0160C9"
+        "MAX_LABEL": 6.7
       }
     },
     {
@@ -26253,8 +26078,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "0D85D8"
+        "MAX_LABEL": 8
       }
     },
     {
@@ -26376,8 +26200,7 @@
         "HOMEPART": 1,
         "MIN_ZOOM": 0,
         "MIN_LABEL": 3,
-        "MAX_LABEL": 8,
-        "colour": "1CA3DE"
+        "MAX_LABEL": 8
       }
     }
   ]

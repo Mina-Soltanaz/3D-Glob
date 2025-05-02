@@ -11,24 +11,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="https://unpkg.com/@deck.gl/core/dist.min.js"></script>
     <script src="https://unpkg.com/@deck.gl/layers/dist.min.js"></script>
-    <script
-      src="https://kit.fontawesome.com/1e939a20d7.js"
-      crossorigin="anonymous"
-    ></script>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&family=Poiret+One&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      rel="preload"
-      href="./fonts/Hamishe-Regular.oft"
-      as="font"
-      crossorigin
-    />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&family=Poiret+One&display=swap" />
+    <link rel="preload" href="./webfonts/Rastin-Bold.woff" as="font" type="font/woff" crossorigin/>
 
     <!-- Custom JS -->
     <script src="./js/d3.js"></script>
@@ -36,17 +24,18 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="./css/index.css" />
+    <link rel="stylesheet" href="./css/fontawesome.all.min.css"  />
 
     <style>
       @font-face {
-        font-family: Hamishe;
-        src: url(./fonts/Hamishe-Regular.oft) format("opentype");
+        font-family: Rastin;
+        src: url(./webfonts/Rastin-Bold.woff) format("woff");
         font-weight: normal;
         font-style: normal;
       }
 
       * {
-        font-family: Hamishe;
+        font-family: Rastin;
       }
 
       .scene-container .clickable {
@@ -84,7 +73,6 @@
   <body>
     <div id="globeViz"></div>
     <div id="popup-container"></div>
-
     <div id="table">
       <table id="customers">
         <tr>
@@ -92,12 +80,8 @@
             Human Rights Mechanisms in All States
           </th>
           <th style="border-left: none">
-            <button
-              onclick="hideTable()"
-              style="color: azure; margin: 0px 0px 0 70%"
-              class="closeBtn"
-            >
-              <i class="fa-sharp fa-solid fa-xmark"></i>
+            <button onclick="hideTable()" style="color: azure; margin: 0px 0px 0 70%" class="closeBtn">
+              <i class="fa-solid fa-xmark"></i>
             </button>
           </th>
         </tr>
@@ -107,7 +91,6 @@
           <th>Institution to be addressed</th>
           <th>Specific Procedures</th>
         </tr>
-
         <tr>
           <td rowspan="5">Human Rights Council</td>
           <td rowspan="4">
@@ -118,73 +101,59 @@
           </td>
           <td>
             <p>
-              <a
-                target="_blank"
-                href="https://www.ohchr.org/en/special-procedures/wg-arbitrary-detention/complaints-and-urgent-appeals"
-                >Working Group on Arbitrary Detention (WGAD)</a
-              >
+              <a target="_blank" href="https://www.ohchr.org/en/special-procedures/wg-arbitrary-detention/complaints-and-urgent-appeals">
+                Working Group on Arbitrary Detention (WGAD)
+              </a>
             </p>
           </td>
         </tr>
         <tr>
           <td>
             <p>
-              <a
-                target="_blank"
-                href="https://www.ohchr.org/en/special-procedures/wg-disappearances/reporting-disappearance-working-group"
-                >Working Group on Enforced or Involuntary Disappearances
-                (WGEID)</a
-              >
+              <a target="_blank" href="https://www.ohchr.org/en/special-procedures/wg-disappearances/reporting-disappearance-working-group">
+                Working Group on Enforced or Involuntary Disappearances (WGEID)
+              </a>
             </p>
           </td>
         </tr>
-
         <tr>
           <td rowspan="2">
             <p>Special Rapporteurs</p>
           </td>
           <td>
             <p>
-              <a target="_blank" href="https://spsubmission.ohchr.org/"
-                >Submission to Special Procedures</a
-              >
+              <a target="_blank" href="https://spsubmission.ohchr.org/">
+                Submission to Special Procedures
+              </a>
             </p>
           </td>
         </tr>
         <tr>
           <td>
             <p>
-              <a
-                target="_blank"
-                href="https://spinternet.ohchr.org/ViewAllCountryMandates.aspx?Type=TM"
-                >Submitting information to Special Rapporteur</a
-              >
+              <a target="_blank" href="https://spinternet.ohchr.org/ViewAllCountryMandates.aspx?Type=TM">
+                Submitting information to Special Rapporteur
+              </a>
             </p>
           </td>
         </tr>
-
         <tr>
           <td>Human Rights Council Complaint Procedure</td>
           <td>Human Rights Council</td>
           <td>
-            <a
-              target="_blank"
-              href="https://www.ohchr.org/en/hr-bodies/hrc/complaint-procedure/hrc-complaint-procedure-index"
-              >HRC Complaint Procedure (frequently asked questions)</a
-            >
+            <a target="_blank" href="https://www.ohchr.org/en/hr-bodies/hrc/complaint-procedure/hrc-complaint-procedure-index">
+              HRC Complaint Procedure (frequently asked questions)
+            </a>
           </td>
         </tr>
-
         <tr>
           <td>ECOSOC</td>
           <td>Commission on the Status of Women</td>
           <td></td>
           <td>
-            <a
-              target="_blank"
-              href="https://www.unwomen.org/en/csw/communications-procedure"
-              >Commission on the Status of Women</a
-            >
+            <a target="_blank" href="https://www.unwomen.org/en/csw/communications-procedure">
+              Commission on the Status of Women
+            </a>
           </td>
         </tr>
       </table>
@@ -197,7 +166,9 @@
     </div>
 
     <div id="title">
-      <h1>نمایش سه بعدی کره زمین</h1>
+      <h1 style="color: beige">
+        عنوان - کره زمین - سه بعدی
+      </h1>
 
       <!-- Search Function -->
       <!-- <div autocomplete="off">
@@ -250,9 +221,9 @@
 
       <p>
         Created by
-        <a href="https://www.thinkevolveconsulting.com"
-          >Think Evolve Consultancy LLP</a
-        >
+        <a href="https://www.thinkevolveconsulting.com">
+          Think Evolve Consultancy LLP
+        </a>
       </p>
     </div>
 
