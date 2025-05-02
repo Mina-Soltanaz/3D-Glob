@@ -14,14 +14,15 @@ fetch("./data/countries_small_updated_Jan2024.geojson") //
       .backgroundImageUrl("//unpkg.com/three-globe/example/img/night-sky.png")
       .lineHoverPrecision(0.01)
       .labelText(countries?.properties?.FORMAL_FA)
+      .pointOfView({ lat: 28.5, lng: 53.3, altitude: 2.7 }, 500)
       .polygonsData(
         countries.features.filter((d) => d.properties.ISO_A2 !== "AQ")
       )
-      .polygonAltitude(0.01)
+      .polygonAltitude(0.005)
       //.polygonCapColor((feat) => feat?.properties?.colour) // polygon color coming from color property
-      .polygonCapColor(() => "rgba(1, 1, 1, 0.3)")
-      .polygonSideColor(() => "rgba(0, 0, 0, 0.3)") // ground color
-      .polygonStrokeColor(() => "#111")
+      .polygonCapColor(() => "rgba(30, 50, 0, 0.6)")
+      .polygonSideColor(() => "rgba(0, 0, 0, 0)") // ground color
+      .polygonStrokeColor(() => "#111111")
       .onPolygonClick(({ properties: d }) => {
         if (
           d.UNTreatyBody.length === 0 &&
@@ -263,12 +264,14 @@ fetch("./data/countries_small_updated_Jan2024.geojson") //
       .polygonLabel(({ properties: d }) => `<b>${d.FORMAL_FA} </b>`)
       .onPolygonHover((hoverD) =>
         world
-          .polygonAltitude((d) => (d === hoverD ? 0.06 : 0.01))
+          //.polygonAltitude((d) => (d === hoverD ? 0.03 : 0.01))
           .polygonCapColor((d) => {
-            // return d === hoverD ? "white" : d?.properties?.color;
+            return d === hoverD
+              ? "rgba(30, 50, 0, 0.8)"
+              : "rgba(30, 50, 0, 0.6)";
           })
       )
-      .polygonsTransitionDuration(300)(document.getElementById("globeViz"));
+      .polygonsTransitionDuration(500)(document.getElementById("globeViz"));
   });
 
 // Set country point of view Function
@@ -291,9 +294,9 @@ const searchCountry = () => {
     let max_longitude = bbox[2];
     let latitude_avg = min_latitude + latitude_diff / 2;
     let longitude_avg = max_longitude + longitude_diff / 2;
-    
+
     world.pointOfView({ lat: latitude_avg, lng: longitude_avg }, 1);
 
-    //world.pointOfView({ lat: 23.512, lng: 80.329 }, 1);
+    //world.pointOfView({ lat: 48.512, lng: 39.329 }, 1);
   }
 };
