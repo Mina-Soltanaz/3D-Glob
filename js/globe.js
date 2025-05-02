@@ -13,7 +13,7 @@ fetch("./data/countries_small_updated_Jan2024.geojson") //
       .globeImageUrl("//unpkg.com/three-globe/example/img/earth-night.jpg")
       .backgroundImageUrl("//unpkg.com/three-globe/example/img/night-sky.png")
       .lineHoverPrecision(0.01)
-      .labelText(countries?.properties?.BRK_NAME)
+      .labelText(countries?.properties?.FORMAL_FA)
       .polygonsData(
         countries.features.filter((d) => d.properties.ISO_A2 !== "AQ")
       )
@@ -28,10 +28,10 @@ fetch("./data/countries_small_updated_Jan2024.geojson") //
         ) {
           showPopup(`
                   <div class="top-part content">
-                    <h2 style="margin: 0;">${d.BRK_NAME}</h2>
+                    <h2 style="margin: 0;">${d.FORMAL_FA}</h2>
                     <button  onclick="hidePopup()" class="closeBtn"><i class="fa-sharp fa-solid fa-xmark"></i></button>
                   </div>
-                  <p>In <strong>${d.BRK_NAME}</strong>, there are no dedicated international human rights complaint mechanisms for (rejected) asylum seekers. Please check other options available for all countries in the pop-up window at the bottom left.</p>
+                  <p>In <strong>${d.FORMAL_FA}</strong>, there are no dedicated international human rights complaint mechanisms for (rejected) asylum seekers. Please check other options available for all countries in the pop-up window at the bottom left.</p>
                   `);
           return;
         }
@@ -91,13 +91,13 @@ fetch("./data/countries_small_updated_Jan2024.geojson") //
               (obj) => obj.IndividualComplaint
             );
             // Passing parameter to the download pdf
-            const string = `${d.BRK_NAME}_${committees}_${institutions}_${IndividualComplaint}_${Inquiry}_${RR}_${IndividualComplaintRHRM}`;
+            const string = `${d.FORMAL_FA}_${committees}_${institutions}_${IndividualComplaint}_${Inquiry}_${RR}_${IndividualComplaintRHRM}`;
 
             // Making html popup content
             let UNTreatyBodyTable = [
               `<div class="top-part">
           <h2 style="margin: 0;">${
-            d.BRK_NAME
+            d.FORMAL_FA
           } <button id="downloadPdf" onclick="downloadPdf(this, '${string}')" class="downloadBtn"><i class="fa-solid fa-file-arrow-down"></i></button> </h2>
           <button  onclick="hidePopup()" class="closeBtn"><i class="fa-sharp fa-solid fa-xmark"></i></button>
         </div>
@@ -153,13 +153,13 @@ fetch("./data/countries_small_updated_Jan2024.geojson") //
             showPopup(`
           ${
             d?.UNTreatyBody.length === 0
-              ? `<h4>UN Treaty Body:</h4><p> In <strong>${d.BRK_NAME}</strong>, no relevant international human rights complaint mechanisms are available for (rejected) asylum seekers. If you still wish to take initiative in the context, please assess the further possibilities applicable to all countries listed below. </p>`
+              ? `<h4>UN Treaty Body:</h4><p> In <strong>${d.FORMAL_FA}</strong>, no relevant international human rights complaint mechanisms are available for (rejected) asylum seekers. If you still wish to take initiative in the context, please assess the further possibilities applicable to all countries listed below. </p>`
               : UNTreatyBodyTable
           }
           ${
             d?.regionalHumanRightsMechanism.length === 0 ||
             !d?.regionalHumanRightsMechanism
-              ? `<h4>Regional Human Rights Mechanism:</h4><p>In <strong>${d.BRK_NAME}</strong>, no Regional Human Rights Mechanism are available for (rejected) asylum seekers.</p>`
+              ? `<h4>Regional Human Rights Mechanism:</h4><p>In <strong>${d.FORMAL_FA}</strong>, no Regional Human Rights Mechanism are available for (rejected) asylum seekers.</p>`
               : regionalHumanRightsMechanismTable
           }
           `);
@@ -202,7 +202,7 @@ fetch("./data/countries_small_updated_Jan2024.geojson") //
             const reservation =
               d?.reservations === undefined
                 ? ""
-                : `<strong>Attention:</strong> When preparing a submission, <strong>${d.BRK_NAME}</strong> has made a reservation on article(s) <b>${d?.reservations}</b> to the Convention of this Committee`;
+                : `<strong>Attention:</strong> When preparing a submission, <strong>${d.FORMAL_FA}</strong> has made a reservation on article(s) <b>${d?.reservations}</b> to the Convention of this Committee`;
 
             let UNTreatyBody = [
               `<div>
@@ -235,31 +235,31 @@ fetch("./data/countries_small_updated_Jan2024.geojson") //
                 .join(" ")}</div>`,
             ];
 
-            const string = `${d.BRK_NAME}_${committees}_${institutions}`;
+            const string = `${d.FORMAL_FA}_${committees}_${institutions}`;
 
             showPopup(`
                   <div class="top-part">
                     <h2 style="margin: 0;">${
-                      d.BRK_NAME
+                      d.FORMAL_FA
                     } <button id="downloadPdf" onclick="downloadPdf(this, '${string}')" class="downloadBtn"><i class="fa-solid fa-file-arrow-down"></i></button> </h2>
                     <button  onclick="hidePopup()" class="closeBtn"><i class="fa-sharp fa-solid fa-xmark"></i></button>
                   </div>
                   ${
                     d?.UNTreatyBody[0]?.length === 0
-                      ? `<h4>UN Treaty Body:</h4><p> In <strong>${d.BRK_NAME}</strong>, no relevant international human rights complaint mechanisms are available for (rejected) asylum seekers. If you still wish to take initiative in the context, please assess the further possibilities applicable to all countries listed below. </p>`
+                      ? `<h4>UN Treaty Body:</h4><p> In <strong>${d.FORMAL_FA}</strong>, no relevant international human rights complaint mechanisms are available for (rejected) asylum seekers. If you still wish to take initiative in the context, please assess the further possibilities applicable to all countries listed below. </p>`
                       : UNTreatyBody
                   }                  
                   ${
                     d?.regionalHumanRightsMechanism[0]?.length === 0 ||
                     !d?.regionalHumanRightsMechanism
-                      ? `<h4>Regional Human Rights Mechanism:</h4><p>In <strong>${d.BRK_NAME}</strong>, no Regional Human Rights Mechanism are available for (rejected) asylum seekers.</p>`
+                      ? `<h4>Regional Human Rights Mechanism:</h4><p>In <strong>${d.FORMAL_FA}</strong>, no Regional Human Rights Mechanism are available for (rejected) asylum seekers.</p>`
                       : RegionalHuman
                   }
                 </div>`);
           }); */
         ///////////////////// Previous code end ///////////////////////
       })
-      .polygonLabel(({ properties: d }) => `<b>${d.BRK_NAME} </b>`)
+      .polygonLabel(({ properties: d }) => `<b>${d.FORMAL_FA} </b>`)
       .onPolygonHover((hoverD) =>
         world
           .polygonAltitude((d) => (d === hoverD ? 0.06 : 0.01))
