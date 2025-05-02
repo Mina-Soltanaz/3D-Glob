@@ -19,7 +19,7 @@ fetch("./data/countries_small_updated_Jan2024.geojson") //
       )
       .polygonAltitude(0.01)
       //.polygonCapColor((feat) => feat?.properties?.colour) // polygon color coming from color property
-      .polygonCapColor(() => "rgba(0, 0, 0, 0.3)")
+      .polygonCapColor('transparent')
       .polygonSideColor(() => "rgba(0, 0, 0, 0.3)") // ground color
       .polygonStrokeColor(() => "#111")
       .onPolygonClick(({ properties: d }) => {
