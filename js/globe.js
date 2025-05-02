@@ -18,7 +18,7 @@ fetch("./data/countries_small_updated_Jan2024.geojson") //
       .polygonsData(
         countries.features.filter((d) => d.properties.ISO_A2 !== "AQ")
       )
-      .polygonAltitude(0.005)
+      .polygonAltitude(0.008)
       //.polygonCapColor((feat) => feat?.properties?.colour) // polygon color coming from color property
       .polygonCapColor(() => "rgba(30, 50, 0, 0.6)")
       .polygonSideColor(() => "rgba(0, 0, 0, 0)") // ground color
