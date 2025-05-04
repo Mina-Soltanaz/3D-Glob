@@ -2,6 +2,8 @@ const popup = document.querySelector("#popup-container");
 const table = document.querySelector("#table");
 const tableBtn = document.querySelector("#tableBtn");
 const content = document.getElementById("content");
+const search = document.querySelector("#search");
+const searchBtn = document.querySelector("#searchBtn");
 
 function showPopup(data) {
   popup.innerHTML = data;
@@ -21,6 +23,11 @@ function hideTable() {
 function showTable() {
   table.style.display = "block";
   tableBtn.style.display = "none";
+}
+
+function showSerach() {
+  search.style.display = "block";
+  searchBtn.style.display = "none";
 }
 
 function hidePopupOnClickOutside(event) {
