@@ -204,7 +204,7 @@ body {
 }
 
 /* mobile view */
-@media (max-width: 576px) {
+@media (max-width: 1080px) {
   #title h1 {
     font-size: small;
     position: fixed;
