@@ -179,14 +179,6 @@ body {
     height: 50%;
   }
 
-  #searchBtn{
-    display:none;
-  }
-
-  #search{
-    display:block;
-  }
-
   #table, #search {
     width: 40%;
     overflow-y: scroll;
@@ -208,13 +200,7 @@ body {
     width: 20%;
     height: 60%;
   }
-    #searchBtn{
-    display:none;
-  }
-
-  #search{
-    display:block;
-  }
+  
 }
 
 /* mobile view */
@@ -257,6 +243,14 @@ body {
   #footer p {
     display: flex;
     justify-content: end;
+  }
+
+  #searchBtn{
+    display:block;
+  }
+
+  #search{
+    display:none;
   }
 }
 
