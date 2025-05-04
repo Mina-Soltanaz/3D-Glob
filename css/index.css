@@ -57,7 +57,6 @@ body {
 }
 
 /* table style */
-/* bottom left table */
 #table {
   position: fixed;
   bottom: 0%;
@@ -78,20 +77,19 @@ body {
   padding: 1%;
 }
 
+/* search style */
 #search {
   position: fixed;
   top: 100px;
   right: 2%;
-  padding: 1%;
-  display: none;
-  z-index: 1;
+  display: block;
 }
 
 #searchBtn {
   position: fixed;
   top: 0%;
   right: 0%;
-  display: block;
+  display: none;
   padding: 1%;
 }
 
