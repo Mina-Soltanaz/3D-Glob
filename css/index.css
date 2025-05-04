@@ -410,3 +410,47 @@ tr:nth-child(even) {
     bottom: 30px;
   }
 }
+
+
+.form-container {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px 40px;
+  border-radius: 5px;
+}
+
+.form-container .btn {
+  cursor: pointer;
+  display: inline-block;
+  width: 100%;
+  background: lightblue;
+  padding: 15px;
+  font-family: inherit;
+  font-size: 16px;
+  border: 0;
+  border-radius: 5px;
+}
+
+.form-container .btn:focus {
+  outline: 0;
+}
+
+.form-container .text {
+  margin-top: 20px;
+}
+
+.form-container .form-control {
+  position: relative;
+  margin: 20px 0 40px;
+  width: 300px;
+}
+
+.form-container .form-control input {
+  background-color: transparent;
+  border: 0;
+  border-bottom: 2px #fff solid;
+  display: block;
+  width: 100%;
+  padding: 15px 0;
+  font-size: 18px;
+  color: #fff;
+}

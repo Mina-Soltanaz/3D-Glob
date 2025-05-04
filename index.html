@@ -21,6 +21,7 @@
     <!-- Custom JS -->
     <script src="./js/d3.js"></script>
     <script src="./js/globe.gl.js"></script>
+    <script src="./js/search.js"></script>
 
     <!-- Styles -->
     <link rel="stylesheet" href="./css/index.css" />
@@ -168,7 +169,7 @@
       </h1>
 
       <!-- Search Function -->
-       <div autocomplete="off">
+       <!--<div autocomplete="off">
         <div class="autocomplete" style="width: 300px">
           <input
             id="myInput"
@@ -180,7 +181,18 @@
         <button type="submit" onclick="searchCountry()" id="sbutton">
           Search
         </button>
-      </div> 
+      </div> -->
+      <div class="form-container">
+        <form>
+          <div class="form-control">
+            <input type="text" placeholder="جستجو در کشور">
+          </div>
+          <div class="form-control">
+            <input type="text" placeholder="جستجو در تاریخ">
+          </div>
+          <button class="btn">جستجو</button>
+        </form>
+      </div>
     </div>
 
     <div id="footer">
