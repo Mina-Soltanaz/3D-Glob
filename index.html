@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fa" dir="rtl">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -40,15 +40,18 @@
 
     <!--Search Box-->
     <div id="search">
-        <form>
-          <div class="form-control">
-            <input type="text" placeholder="جستجو در کشور">
-          </div>
-          <div class="form-control">
-            <input type="text" placeholder="جستجو در تاریخ">
-          </div>
-          <button class="btn">جستجو</button>
-        </form>
+      <button onclick="hideSearch()" class="closeBtn">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+      <form>
+        <div class="form-control">
+          <input type="text" placeholder="جستجو در کشور">
+        </div>
+        <div class="form-control">
+          <input type="text" placeholder="جستجو در تاریخ">
+        </div>
+        <button class="btn">جستجو</button>
+      </form>
     </div>
     
     <div id="searchBtn">

@@ -20,6 +20,11 @@ function hideTable() {
   tableBtn.style.display = "block";
 }
 
+function hideSearch() {
+  search.style.display = "none";
+  searchBtn.style.display = "block";
+}
+
 function showTable() {
   table.style.display = "block";
   tableBtn.style.display = "none";
