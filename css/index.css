@@ -174,7 +174,7 @@ body {
 }
 
 /* laptop view */
-@media only screen and (min-width: 767.9px) {
+@media only screen and (min-width: 1200px) {
   #title h1 {
     font-size: 32px;
     position: fixed;
@@ -209,7 +209,54 @@ body {
   }
 }
 
-@media only screen and (min-width: 767.9px) {
+@media only screen and (max-width: 1199.9px) and (min-width: 767.9px) {
+  #title h1 {
+    font-size: 28px;
+    position: fixed;
+    top: 1%;
+    left: 50%;
+    right: 50%;
+  }
+  #popup-container {
+    position: fixed;
+    top: 3%;
+    left: 2%;
+    width: 70%;
+    height: 50%;
+    font-size: x-small;
+    padding: 5%;
+  }
+
+  .closeBtn i {
+    font-size: 25px;
+  }
+
+  .top-part h2 {
+    font-size: small;
+  }
+
+  #table {
+    bottom: 5%;
+    width: 90%;
+  }
+
+  #footer {
+    font-size: x-small;
+    margin-left: 3%;
+  }
+
+  #footer p {
+    display: flex;
+    justify-content: end;
+  }
+
+  #searchBtn{
+    display:block;
+  }
+
+  #search{
+    display:none;
+  }
 
 }
 
@@ -219,7 +266,8 @@ body {
     font-size: 28px;
     position: fixed;
     top: 1%;
-    left: 28%;
+    left: 50%;
+    right: 50%;
   }
 
   #popup-container {
