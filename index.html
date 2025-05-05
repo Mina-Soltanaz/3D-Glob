@@ -19,7 +19,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&family=Poiret+One&display=swap" />
-    <link rel="preload" href="./webfonts/Rastin-Bold.woff" as="font" type="font/woff" crossorigin/>
+    <link rel="preload" href="./webfonts/Rastin-Plus-Rectangle.woff" as="font" type="font/woff" crossorigin/>
     <link rel="stylesheet" href="./css/fontawesome.all.min.css"  />
 
     <!-- Styles -->
@@ -27,7 +27,7 @@
     <style>
       @font-face {
         font-family: Rastin;
-        src: url(./webfonts/Rastin-Bold.woff) format("woff");
+        src: url(./webfonts/Rastin-Plus-Rectangle.woff) format("woff");
         font-weight: normal;
         font-style: normal;
       }
@@ -38,34 +38,6 @@
     <div id="globeViz"></div>
     <div id="popup-container"></div>
 
-    <div class="header">
-      <!--Search Box-->
-      <div id="search">
-        <button onclick="hideSearch()" class="closeBtn">
-          <i class="fa-solid fa-xmark"></i>
-        </button>
-        <form>
-          <div class="form-control">
-            <input type="text" placeholder="جستجو در کشور">
-          </div>
-          <div class="form-control">
-            <input type="text" placeholder="جستجو در تاریخ">
-          </div>
-          <button class="btn">جستجو</button>
-        </form>
-      </div>
-      
-      <div id="searchBtn">
-        <button onclick="showSerach()" class="searchBtn">
-          <i class="fa-solid fa-search"></i>
-        </button>
-      </div>
-
-      <!--title-->
-      <div id="title">
-      <h1>
-        عنوان - کره زمین - سه بعدی
-      </h1>
 
       <!-- Search Function -->
        <!--<div autocomplete="off">
@@ -81,8 +53,43 @@
           Search
         </button>
       </div> -->
-      
-    </div>
+
+    <div id="header">
+      <!--title-->
+      <div id="title">
+        <h1>
+          اسلامگرایی، ارنست نولته
+        </h1>
+        <h2>
+          ترجمه مهدی تدینی  
+        </h2>
+      </div>
+
+      <!--Search Box-->
+      <div id="searchArea">
+        <div id="search">
+          <button onclick="hideSearch()" class="closeBtn">
+            <i class="fa-solid fa-xmark"></i>
+          </button>
+          <form>
+            <div class="form-control">
+              <input type="text" placeholder="جستجو در کشور">
+            </div>
+            <div class="form-control">
+              <input type="text" placeholder="جستجو در تاریخ">
+            </div>
+            <button class="btn">جستجو</button>
+          </form>
+        </div>
+        <div id="searchBtn">
+          <button onclick="showSerach()" class="searchBtn">
+            <span>جستجو </span>
+            <i class="fa-solid fa-search"></i>
+          </button>
+        </div>
+      </div>
+
+
 
     </div>
 

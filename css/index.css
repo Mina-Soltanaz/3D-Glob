@@ -56,6 +56,11 @@ body {
   cursor: pointer;
 }
 
+.searchBtn span{
+    display: none;
+    padding-left: 5px;
+  }
+
 /* table style */
 #table {
   position: fixed;
@@ -78,17 +83,15 @@ body {
 }
 
 /* search style */
+
+#searchArea{
+  margin-top:40px;
+}
 #search {
-  position: fixed;
-  top: 100px;
-  right: 2%;
   display: block;
 }
 
 #searchBtn {
-  position: fixed;
-  top: 2%;
-  right: 1%;
   display: none;
   padding: 1%;
 }
@@ -117,7 +120,6 @@ body {
 }
 
 /* #customers tr:hover {background-color: #ddd;} */
-
 #customers th {
   padding-top: 10px;
   padding-bottom: 10px;
@@ -126,17 +128,21 @@ body {
   color: white;
 }
 
-/* title css */
-#title {
+/* title and search (header) css */
+#header {
   position: fixed;
-  top: 0%;
-  right: 2%;
+  top: 0;
+  right: 0;
+  padding: 10px 40px;
 }
 
-#title h1 {
+#header h1, #header h2 {
   color: beige;
+  line-height: 1.2;
 }
-
+#header h2 {
+  font-weight: 100 !important;
+}
 /* Custom Scroll Bar */
 ::-webkit-scrollbar {
   width: 8px;
@@ -175,9 +181,12 @@ body {
 
 /* laptop view */
 @media only screen and (min-width: 1200px) {
-  #title h1 {
+  #header h1 {
     font-size: 32px;
-    position: fixed;
+  }
+
+  #header h2 {
+    font-size: 16px;
   }
 
   #popup-container {
@@ -210,9 +219,11 @@ body {
 }
 
 @media only screen and (max-width: 1199.9px) and (min-width: 767.9px) {
-  #title h1 {
+  #header h1 {
     font-size: 28px;
-    position: fixed;
+  }
+  #header h2 {
+    font-size: 14px;
   }
   #popup-container {
     position: fixed;
@@ -222,6 +233,14 @@ body {
     height: 50%;
     font-size: x-small;
     padding: 5%;
+  }
+
+  .searchBtn i, .searchBtn span {
+    font-size: 14px;
+  }
+
+  .searchBtn span{
+    display: inline;
   }
 
   .closeBtn i {
@@ -249,7 +268,6 @@ body {
 
   #searchBtn{
     display:none;
-    top: 85px !important;
   }
 
   #search{
@@ -264,17 +282,11 @@ body {
 
 /* mobile view */
 @media (max-width: 768px) {
-  #title{
-    text-align: center;
-  }
-
-  #title h1 {
+  #header h1 {
     font-size: 20px;
-    position: fixed;
-    top: 1%;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 100%;
+  }
+  #header h2 {
+    font-size: 10px;
   }
 
   #popup-container {
@@ -289,6 +301,14 @@ body {
 
   .closeBtn i {
     font-size: 25px;
+  }
+
+  .searchBtn i, .searchBtn span {
+    font-size: 10px;
+  }
+
+  .searchBtn span{
+    display: inline;
   }
 
   .top-part h2 {
@@ -322,9 +342,6 @@ body {
 /* search bar design */
 
 #search-form {
-  position: absolute;
-  top: 80px;
-  right: 2px;
   display: flex;
   align-items: center;
 }
