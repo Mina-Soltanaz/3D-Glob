@@ -87,7 +87,7 @@ body {
 
 #searchBtn {
   position: fixed;
-  top: 4%;
+  top: 2%;
   right: 1%;
   display: none;
   padding: 1%;
@@ -214,8 +214,7 @@ body {
     font-size: 28px;
     position: fixed;
     top: 1%;
-    left: 50%;
-    right: 50%;
+
   }
   #popup-container {
     position: fixed;
@@ -262,12 +261,17 @@ body {
 
 /* mobile view */
 @media (max-width: 768px) {
+  #title{
+    text-align: center;
+  }
+
   #title h1 {
-    font-size: 28px;
+    font-size: 20px;
     position: fixed;
     top: 1%;
     left: 50%;
-    right: 50%;
+    transform: translateX(-50%);
+    width: 100%;
   }
 
   #popup-container {

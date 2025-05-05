@@ -38,27 +38,55 @@
     <div id="globeViz"></div>
     <div id="popup-container"></div>
 
-    <!--Search Box-->
-    <div id="search">
-      <button onclick="hideSearch()" class="closeBtn">
-        <i class="fa-solid fa-xmark"></i>
-      </button>
-      <form>
-        <div class="form-control">
-          <input type="text" placeholder="جستجو در کشور">
+    <div class="header">
+      <!--Search Box-->
+      <div id="search">
+        <button onclick="hideSearch()" class="closeBtn">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+        <form>
+          <div class="form-control">
+            <input type="text" placeholder="جستجو در کشور">
+          </div>
+          <div class="form-control">
+            <input type="text" placeholder="جستجو در تاریخ">
+          </div>
+          <button class="btn">جستجو</button>
+        </form>
+      </div>
+      
+      <div id="searchBtn">
+        <button onclick="showSerach()" class="searchBtn">
+          <i class="fa-solid fa-search"></i>
+        </button>
+      </div>
+
+      <!--title-->
+      <div id="title">
+      <h1>
+        عنوان - کره زمین - سه بعدی
+      </h1>
+
+      <!-- Search Function -->
+       <!--<div autocomplete="off">
+        <div class="autocomplete" style="width: 300px">
+          <input
+            id="myInput"
+            type="text"
+            name="myCountry"
+            placeholder="Search for a country"
+          />
         </div>
-        <div class="form-control">
-          <input type="text" placeholder="جستجو در تاریخ">
-        </div>
-        <button class="btn">جستجو</button>
-      </form>
+        <button type="submit" onclick="searchCountry()" id="sbutton">
+          Search
+        </button>
+      </div> -->
+      
     </div>
+
+    </div>
+
     
-    <div id="searchBtn">
-      <button onclick="showSerach()" class="searchBtn">
-        <i class="fa-solid fa-search"></i>
-      </button>
-    </div>
 
     <!--Results pop up-->
     <div id="table">
@@ -153,27 +181,7 @@
       </button>
     </div>
 
-    <div id="title">
-      <h1>
-        عنوان - کره زمین - سه بعدی
-      </h1>
-
-      <!-- Search Function -->
-       <!--<div autocomplete="off">
-        <div class="autocomplete" style="width: 300px">
-          <input
-            id="myInput"
-            type="text"
-            name="myCountry"
-            placeholder="Search for a country"
-          />
-        </div>
-        <button type="submit" onclick="searchCountry()" id="sbutton">
-          Search
-        </button>
-      </div> -->
-      
-    </div>
+    
 
     <div id="footer">
       <p>
