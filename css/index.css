@@ -87,8 +87,8 @@ body {
 
 #searchBtn {
   position: fixed;
-  top: 0%;
-  right: 0%;
+  top: 4%;
+  right: 1%;
   display: none;
   padding: 1%;
 }
@@ -176,7 +176,7 @@ body {
 /* laptop view */
 @media only screen and (min-width: 767.9px) {
   #title h1 {
-    
+    font-size: 32px;
     position: fixed;
   }
 
@@ -209,10 +209,14 @@ body {
   }
 }
 
+@media only screen and (min-width: 767.9px) {
+
+}
+
 /* mobile view */
 @media (max-width: 768px) {
   #title h1 {
-    font-size: small;
+    font-size: 28px;
     position: fixed;
     top: 1%;
     left: 28%;
