@@ -213,8 +213,6 @@ body {
   #title h1 {
     font-size: 28px;
     position: fixed;
-    top: 1%;
-
   }
   #popup-container {
     position: fixed;
@@ -250,11 +248,16 @@ body {
   }
 
   #searchBtn{
-    display:block;
+    display:none;
+    top: 85px !important;
   }
 
   #search{
-    display:none;
+    display:block;
+  }
+
+  #search .closeBtn{
+    display:block;
   }
 
 }
