@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+          "description": "test",
+          "date": "1900",
+          "country": "",
+          "people": "test",
+          "groups": "",
+          "pages" : "",
+          "order" : "1"
+        },
+        {
+          "description": "test",
+          "date": "1994",
+          "country": "",
+          "people": "test",
+          "groups": "",
+          "pages": "",
+          "order": "2"
+        }
+    ],
+    "peoples": [
+      {
+        "name":"",
+        "birthDate": "",
+        "birthPlace": ""
+      }
+    ],
+    "groups":[
+      {
+        "name": "",
+        "founder": ""
+      }
+    ],
+    "datetime": "2025-05-12 09:10:21.858227"
+}
